@@ -1,0 +1,9 @@
+node_modules/
+*.ts
+!manifest.json
+build.js
+package.json
+package-lock.json
+tsconfig.json
+.git/
+.DS_Store

@@ -1,0 +1,45 @@
+/* We-MP-RSS Sync 插件样式 */
+
+.setting-item {
+  padding: 8px 0;
+}
+
+.setting-item-info {
+  margin-bottom: 4px;
+}
+
+.setting-item-name {
+  font-weight: 600;
+}
+
+.setting-item-description {
+  color: var(--text-muted);
+  font-size: 0.9em;
+}
+
+.sync-status {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--color-accent);
+  color: var(--color-bg);
+  padding: 10px 20px;
+  border-radius: 5px;
+  z-index: 1000;
+  font-size: 14px;
+}
+
+.sync-status.success {
+  background: #4CAF50;
+  color: white;
+}
+
+.sync-status.error {
+  background: #f44336;
+  color: white;
+}
+
+.sync-status.info {
+  background: #2196F3;
+  color: white;
+}

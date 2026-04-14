@@ -1,0 +1,12 @@
+{
+  "id": "we-mp-rss-sync",
+  "name": "We-MP-RSS Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "从 We-MP-RSS 数据库增量同步文章内容到 Obsidian 知识库，并添加到 DB-GPT 知识库",
+  "author": "We-MP-RSS",
+  "authorUrl": "https://github.com/rachelos",
+  "repo": "tangzhitian001/we-mp-rss-sync",
+  "isDesktopOnly": false,
+  "hasFallBackModule": true
+}
