@@ -1,6 +1,17 @@
 {
+  "name": "we-mp-rss-sync",
+  "version": "1.0.0",
+  "description": "Sync articles from We-MP-RSS database to Obsidian vault",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
   "dependencies": {
     "builtin-modules": "^5.1.0",
     "esbuild": "^0.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
   }
 }

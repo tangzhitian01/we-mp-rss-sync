@@ -1,9 +1,9 @@
 {
 	"id": "we-mp-rss-sync",
 	"name": "We-MP-RSS Sync",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.5.0",
-	"description": "Sync articles from We-MP-RSS database to Obsidian vault with incremental sync and DB-GPT integration",
+	"description": "Sync articles from We-MP-RSS database to Obsidian vault with incremental sync, multi-database support, and DB-GPT integration",
 	"author": "We-MP-RSS",
 	"authorUrl": "https://github.com/rachelos",
 	"isDesktopOnly": false
