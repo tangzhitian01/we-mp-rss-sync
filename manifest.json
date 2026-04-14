@@ -1,10 +1,10 @@
 {
-  "id": "we-mp-rss-sync",
-  "name": "We-MP-RSS Sync",
-  "version": "1.0.0",
-  "minAppVersion": "1.5.0",
-  "description": "从 We-MP-RSS 数据库同步文章到 Obsidian 知识库，支持增量同步和 DB-GPT 集成",
-  "author": "We-MP-RSS",
-  "authorUrl": "https://github.com/rachelos",
-  "isDesktopOnly": false
+	"id": "we-mp-rss-sync",
+	"name": "We-MP-RSS Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Sync articles from We-MP-RSS database to Obsidian vault with incremental sync and DB-GPT integration",
+	"author": "We-MP-RSS",
+	"authorUrl": "https://github.com/rachelos",
+	"isDesktopOnly": false
 }
