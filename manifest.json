@@ -7,6 +7,5 @@
   "author": "We-MP-RSS",
   "authorUrl": "https://github.com/rachelos",
   "repo": "tangzhitian01/we-mp-rss-sync",
-  "isDesktopOnly": false,
-  "hasFallBackModule": true
+  "isDesktopOnly": false
 }
