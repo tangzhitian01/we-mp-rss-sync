@@ -1,6 +1,6 @@
 # Build output
-main.js
-styles.css
+# main.js - Required for plugin (but built by esbuild)
+# styles.css - Required for plugin styling
 .codex-vendor/
 *.js.map
 dist/
