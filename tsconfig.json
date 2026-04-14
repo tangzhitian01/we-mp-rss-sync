@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2018",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": ".",
+    "rootDir": ".",
+    "declaration": false,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "resolveJsonModule": true,
+    "types": ["node"]
+  },
+  "include": ["main.ts", "src/**/*.ts"],
+  "exclude": ["node_modules", ".codex-vendor"]
+}
