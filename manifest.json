@@ -1,10 +1,18 @@
 {
-	"id": "we-mp-rss-sync",
-	"name": "We-MP-RSS Sync",
-	"version": "1.0.1",
-	"minAppVersion": "1.5.0",
-	"description": "Sync articles from We-MP-RSS database to Obsidian vault with incremental sync, multi-database support, and DB-GPT integration",
-	"author": "We-MP-RSS",
-	"authorUrl": "https://github.com/rachelos",
-	"isDesktopOnly": false
+  "id": "we-mp-rss-sync",
+  "name": "WeChat MP RSS Sync",
+  "version": "1.0.0",
+  "description": "Syncing WeChat articles to Obsidian and DB-GPT",
+  "author": "tangzhitian01",
+  "authorUrl": "https://github.com/tangzhitian01",
+  "fundingUrl": "https://github.com/tangzhitian01/we-mp-rss-sync",
+  "minAppVersion": "1.0.0",
+  "appVersion": "1.0.0",
+  "js": "main.js",
+  "css": "styles.css",
+  "interface": {
+    "leftSidebarIcon": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2'/><path d='M18 14h-8'/><path d='M15 18h-5'/><path d='M10 6h8'/></svg>"
+    }
+  }
 }
